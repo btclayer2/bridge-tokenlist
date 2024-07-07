@@ -12,15 +12,6 @@
     "tokens": [
       {
         "chainId": 11501,
-        "address": "0x041bbB9c16fDBa8C805565D0bB34931e37895EC9",
-        "type": "RUNES" ,
-        "name": "ORDINALS•RUNES",
-        "symbol": "ORDINALS•RU",
-        "decimals": 0,
-        "logoURI": ""
-      },
-      {
-        "chainId": 11501,
         "address": "0x88290434e8F5a2Fd3Dc3ef31A1bEF19d74372C24",
         "type": "BRC20" ,
         "name": "Bridged BRC20 SATS",
@@ -66,6 +57,15 @@
       },
       {
         "chainId": 11501,
+        "address": "0x041bbB9c16fDBa8C805565D0bB34931e37895EC9",
+        "type": "RUNES" ,
+        "name": "ORDINALS•RUNES",
+        "symbol": "ORDINALS•RU",
+        "decimals": 0,
+        "logoURI": ""
+      },
+      {
+        "chainId": 11501,
         "address": "0x8d6F6210EdA57cE98f8293cEbCfe0f730e142895",
         "type": "RUNES" ,
         "name": "Bridged Runes DOG•GO•TO•THE•MOON",
@@ -107,7 +107,7 @@
         "name": "Bridged Tether USD",
         "symbol": "USDT",
         "decimals": 6,
-        "logoURI": "https://assets.coingecko.com/coins/images/325/small/Tether-logo.png?1598003707"
+        "logoURI": "https://raw.githubusercontent.com/btclayer2/bridge-tokenlist/main/asset/usdt.svg"
       },
       {
         "chainId": 11501,
@@ -134,7 +134,7 @@
         "name": "Ethereum Tether USD",
         "symbol": "USDT",
         "decimals": 6,
-        "logoURI": "https://raw.githubusercontent.com/btclayer2/bridge-tokenlist/main/asset/usdc.png"
+        "logoURI": "https://raw.githubusercontent.com/btclayer2/bridge-tokenlist/main/asset/usdt.svg"
       },
 
 
