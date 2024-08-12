@@ -157,6 +157,24 @@
         "logoURI": "https://raw.githubusercontent.com/btclayer2/bridge-tokenlist/main/asset/eth.svg"
       },
       {
+        "chainId": 11503,
+        "address": "0x300f82e87622062a6217E2A0b60cBf749e78BDD9",
+        "type": "RUNES" ,
+        "name": "ORDINALS•RUNES",
+        "symbol": "ORDINALS•RU",
+        "decimals": 0,
+        "logoURI": ""
+      },
+      {
+        "chainId": 11503,
+        "address": "0x94E1aFba3176Ce2C7d456f06c30f5103b760038d",
+        "type": "BRC20" ,
+        "name": "Bridged BRC20 SATS",
+        "symbol": "SATS",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/btclayer2/bridge-tokenlist/main/asset/sats.png"
+      },
+      {
         "chainId": 11155111,
         "address": "0xBB495034bCfdF342dAfF29441C5131B69f759eb5",
         "type": "ERC20" ,
